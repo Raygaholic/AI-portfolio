@@ -1,0 +1,29 @@
+CONTENT REWRITER V1 (Client-Safe Version)
+
+--- BEFORE ---
+The appraisal process significantly impacted our home sale in a developing neighborhood. Our 2,400 sq. ft. landscaped home included upgrades no longer offered in current builds.
+
+We listed at $XXX,XXX, reduced the price after a few weeks, and accepted an offer close to our reduced price. The inspection went smoothly with only a small repair needed.
+
+The appraisal came in below the agreed price, using comparable properties that were smaller and lacked our features. Our location includes a large green space with scenic views, which was not reflected in the valuation. Evidence of a recent sale of the same floor plan at a higher price was dismissed for being over six months old.
+
+Despite support from all parties except the lender and appraiser, the lower appraisal stood.
+
+--- AFTER (Clean Rewrite, 120–180 words) ---
+Our 2,400 sq. ft. landscaped home in a newer neighborhood featured upgrades not available in current builds. Initially listed above $XXX,XXX, we adjusted the price and accepted an offer after multiple showings. The inspection required only a small repair.
+
+The appraisal returned significantly below the contract price, relying on smaller, less-featured comps. Our property backs onto a large green space with open views, a feature not accounted for in the valuation. We provided proof of a recent sale of the same floor plan at a higher price, but it was dismissed due to timing.
+
+The county assessment closely aligned with our agreed price, but the lender and appraiser upheld the lower figure.
+
+--- AFTER (Alt Version, 80–120 words) ---
+We listed our upgraded home in a new development above $XXX,XXX, reduced slightly, and accepted an offer after multiple showings. Inspection was smooth, with only a small fix.
+
+The appraisal came in lower than expected, using smaller, less-featured comps despite our premium location backing onto open green space. A recent sale of the same floor plan supported our value but was dismissed for being more than six months old.
+
+The county’s assessment nearly matched our sale price, but the lender and appraiser disagreed.
+
+--- HEADLINES (≤ 7 words) ---
+1) Appraisal Misses Key Home Features
+2) Green Space, Low Valuation
+3) When Market Value and Appraisal Clash

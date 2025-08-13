@@ -1,0 +1,10 @@
+CASE STUDY — Content Rewriter v1
+
+Problem:
+A real estate property listing description was cluttered, overly long, and lacked sales appeal. Key features were buried in unnecessary detail, making it harder for buyers to recognize the home’s value.
+
+Solution:
+Designed and executed a “Content Rewriter” AI prompt with clear role, goal, context, and constraints. Restructured the narrative, improved clarity, and highlighted unique selling points such as location and upgrades. Delivered two rewritten versions (detailed and concise) plus three headline options for flexibility.
+
+Result:
+Client received clear, concise listing copy suitable for marketing and online listings. The improved text emphasized the home’s value and distinctive features, addressing gaps in the original appraisal narrative.
