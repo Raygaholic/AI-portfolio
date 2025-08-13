@@ -1,0 +1,7 @@
+[MOCK SCREENSHOT PLACEHOLDER]
+This is where a ChatGPT conversation screenshot would appear, showing:
+1) The exact prompt used.
+2) The AI-generated before/after output.
+3) Time and date stamp.
+
+Tip: For real screenshots, open ChatGPT in your browser, paste your prompt, run it, then take a screenshot (Shift+Command+4 on Mac).
